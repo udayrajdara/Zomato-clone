@@ -61,11 +61,14 @@ Through this project, I gained hands-on experience with:
 
 ## 📸 Preview
 
-Add project screenshots here.
+<p align="center">
+  <img src="https://github.com/udayrajdara/Zomato-clone/blob/main/Zomato%20ss1.png?raw=true" width="32%" alt="Preview 1">
+  <img src="https://github.com/udayrajdara/Zomato-clone/blob/main/Zomato%20ss2.png?raw=true" width="32%" alt="Preview 2">
+  <img src="https://github.com/udayrajdara/Zomato-clone/blob/main/Zomato%20ss%203.png?raw=true" width="32%" alt="Preview 3">
+</p>
 
-```md
-![Zomato Clone Preview](./assets/zomato-preview.png)
-```
+
+A modern and responsive Zomato-inspired web application built with React.js, Mock API integration, and EmailJS-powered contact forms.
 
 ## ⚙️ Installation
 
